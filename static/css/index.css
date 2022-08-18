@@ -1,0 +1,102 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0 0 0 0;
+}
+#top{
+    background-color: #e3f2fd;
+    /* padding-bottom: 2rem; */
+}
+.col-lg-6{
+    margin: 0;
+    padding: 0;
+}
+.main-image{
+    max-width: 100%;
+    float: right;
+}
+.heading{
+    font-family: "Roboto";
+    font-size: 3.3rem;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 5rem;
+}
+.navbar-brand{
+
+    font-size: 2rem;
+}
+.navbar-light{
+    background-color: #e3f2fd;
+}
+.navbar{
+    padding: 1rem 0 1rem;
+}
+
+.nav-item{
+
+    font-family: "Ubuntu";
+    font-size: 1.2rem;
+}
+
+.whitespace{
+    /* background-color:#e0ebeb; */
+    /* background-image: url({{ url_for('static',filename='images/bg_image.jpg') }}); */
+    margin-top: 2rem;
+    /* font-size: 10rem; */
+}
+.work{
+    margin-top:3.5rem ;
+    padding:5% ;
+}
+
+.what{
+    color: #25D366;
+}
+.btn{
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: auto;
+}
+
+.hiwi{
+    max-width: 100%;
+}
+.hiw{
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 3rem;
+    margin: 1.5rem;
+}
+.tb{
+    width: 50%;
+}
+.plus{
+    margin: 2rem;
+}
+.user-add{
+    color:aliceblue;
+    position: static;
+}
+.user-add:hover{
+    color:#323d3f;
+}
+.ls{
+    font-family: "Poppins",'sans-serif';
+    font-size: 2rem;
+}
+.auto-icon{
+    width: 100px;
+    height: 100px;
+}
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
+
+

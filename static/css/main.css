@@ -1,0 +1,25 @@
+body{
+    min-height: 100vh;
+    /* background: linear-gradient(to right bottom,#f2f2f2, #25D366); */
+    background-color: #25D366;
+    color:#ffa64d ;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+
+.table{
+    margin-right: auto;
+    margin-left: auto;
+}
+.form-control{
+    width: 20%;
+    margin-bottom: 1%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
